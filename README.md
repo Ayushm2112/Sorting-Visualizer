@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
-Download [Code](https://github.com/Ayushm2112/Sorting-Visualizer/blob/main/Sorting-Visualizer-master.zip)
-
+Code [Download](https://github.com/Ayushm2112/Sorting-Visualizer/blob/main/Sorting-Visualizer-master.zip)
+Direct run .exe file [Download](https://github.com/Ayushm2112/Sorting-Visualizer/blob/main/Sorting.Visualizer1.0.zip)
 Visualization of different sorting algorithms in C++ with SDL2 Library.
 
 A sorting algorithm is an algorithm that puts the elements of a list in a certain order. While there are a large number of sorting algorithms, in practical implementations a few algorithms predominate.
